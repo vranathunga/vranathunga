@@ -17,6 +17,13 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher specializing in
 
 ---
 
+<p align="center">
+  <img src="images/python.png" width="80">
+  <img src="images/flask.png" width="80">
+  <img src="images/numpy.png" width="80">
+  <img src="images/hadoop.png" width="80">
+</p>
+
 ## 🛠️ Skills & Tools
 - **Programming & Analysis:** Python 🐍, MATLAB, R, C++  
 - **Libraries & Frameworks:** TensorFlow ⚡, PyTorch 🔥, NumPy 📊, SciPy, scikit-learn 🤖, MNE 🧠  
