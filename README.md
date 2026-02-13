@@ -19,6 +19,16 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher specializing in
 
 ## 🛠️ Skills & Tools
 
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
 - **Programming & Analysis:** Python 🐍, MATLAB, R, C++  
 - **Libraries & Frameworks:** TensorFlow ⚡, PyTorch 🔥, NumPy 📊, SciPy, scikit-learn 🤖, MNE 🧠  
 - **Data Analysis:** EEG/MEG data processing, fMRI analysis 🧠  
@@ -26,7 +36,7 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher specializing in
 
 ---
 
-## 📂 Projects
+<!-- ## 📂 Projects
 
 Here are some representative projects from my research and teaching:
 
@@ -39,7 +49,7 @@ Here are some representative projects from my research and teaching:
 3. **Neuroinformatics Tools** 🖥️  
    - Python packages for preprocessing and analyzing large-scale neural datasets.  
 
-*(For full project details, explore the repositories below.)*
+*(For full project details, explore the repositories below.)* -->
 
 ---
 
