@@ -18,7 +18,10 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher specializing in
 ---
 
 ## 🛠️ Skills & Tools
-
+- **Programming & Analysis:** Python 🐍, MATLAB, R, C++  
+- **Libraries & Frameworks:** TensorFlow ⚡, PyTorch 🔥, NumPy 📊, SciPy, scikit-learn 🤖, MNE 🧠  
+- **Data Analysis:** EEG/MEG data processing, fMRI analysis 🧠  
+- **Visualization:** Matplotlib 📈, Seaborn 🌊, Plotly 📊  
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,12 +32,9 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher specializing in
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
-- **Programming & Analysis:** Python 🐍, MATLAB, R, C++  
-- **Libraries & Frameworks:** TensorFlow ⚡, PyTorch 🔥, NumPy 📊, SciPy, scikit-learn 🤖, MNE 🧠  
-- **Data Analysis:** EEG/MEG data processing, fMRI analysis 🧠  
-- **Visualization:** Matplotlib 📈, Seaborn 🌊, Plotly 📊  
 
----
+
+
 
 <!-- ## 📂 Projects
 
@@ -51,7 +51,7 @@ Here are some representative projects from my research and teaching:
 
 *(For full project details, explore the repositories below.)* -->
 
----
+
 
 ## 📈 GitHub Repositories
 
