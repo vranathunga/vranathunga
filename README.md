@@ -37,7 +37,7 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
       <td width="30px"></td>
       <!-- Card 2 -->
       <td width="300px" valign="top" align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+        <a href="images/banner2.jpg">
           <img src="https://via.placeholder.com/300x180.png?text=Project+2" width="100%" />
         </a>
         <h3>Project Title 2</h3>
@@ -49,7 +49,7 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
     <td width="30px"></td>
       <!-- Card 3 -->
       <td width="300px" valign="top" align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_3">
+        <a href="images/banner3.jpg">
           <img src="https://via.placeholder.com/300x180.png?text=Project+3" width="100%" />
         </a>
         <h3>Project Title 3</h3>
