@@ -25,12 +25,12 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
     <tr>
       <!-- Card 1 -->
       <td width="300px" valign="top" align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-          <img src="https://via.placeholder.com/300x180.png?text=Project+1" width="100%" />
+        <a href="https://github.com/vranathunga/EEG-Sleep-Stage-Classification.git">
+          <img src="images/banner1.png" width="100%" />
         </a>
-        <h3>Project Title 1</h3>
+        <h3>EEG-Sleep-Stage-Classification</h3>
         <p>
-          Short description of your project. Explain what it does in 1–2 lines.
+          This project was conducted to identify the EEG signal waves identification by using machine learning technologies.
         </p>
       </td>
       <!-- Spacer -->
