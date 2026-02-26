@@ -19,13 +19,47 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
   
 </p>
 
-## 📈 GitHub Repositories
-
-- [Project 1](#) 🧩 – Description of project 1  
-- [Project 2](#) 🌐 – Description of project 2  
-- [Project 3](#) 🖥️ – Description of project 3  
-
-
+## 📈 GitHub Projects
+<div align="center">
+  <table>
+    <tr>
+      <!-- Card 1 -->
+      <td width="300px" valign="top" align="center">
+        <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
+          <img src="https://via.placeholder.com/300x180.png?text=Project+1" width="100%" />
+        </a>
+        <h3>Project Title 1</h3>
+        <p>
+          Short description of your project. Explain what it does in 1–2 lines.
+        </p>
+      </td>
+      <!-- Spacer -->
+      <td width="30px"></td>
+      <!-- Card 2 -->
+      <td width="300px" valign="top" align="center">
+        <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+          <img src="https://via.placeholder.com/300x180.png?text=Project+2" width="100%" />
+        </a>
+        <h3>Project Title 2</h3>
+        <p>
+          Short description of your project. Explain what it does in 1–2 lines.
+        </p>
+      </td>
+    <!-- Spacer -->
+    <td width="30px"></td>
+      <!-- Card 3 -->
+      <td width="300px" valign="top" align="center">
+        <a href="https://github.com/YOUR_USERNAME/PROJECT_3">
+          <img src="https://via.placeholder.com/300x180.png?text=Project+3" width="100%" />
+        </a>
+        <h3>Project Title 3</h3>
+        <p>
+          Short description of your project. Explain what it does in 1–2 lines.
+        </p>
+      </td>
+  </tr>
+</table>
+</div>
 
 ## 📫 Contact
 
