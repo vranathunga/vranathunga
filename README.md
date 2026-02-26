@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! I am a **lecturer and researcher with research interest in specializing in computational neurology**, focusing on the intersection of neuroscience, Machine Learning, and Brain Logics. I am passionate about teaching, mentoring, and sharing reproducible research. My research Interests are Computational Neurology, Cognitive Systems and Artificial Intelligence.
 
----
+
 ## 🛠️ Skills & Tools
 <p align="center">
   <img src="images/python.jpg" width="90">
@@ -25,13 +25,13 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
 - [Project 2](#) 🌐 – Description of project 2  
 - [Project 3](#) 🖥️ – Description of project 3  
 
----
+
 
 ## 📫 Contact
 
 - ✉️ Email: [vgr.grad@gmail.com](vgr.grad@gmail.com)  
 - 🔗 [LinkedIn](#) | [ResearchGate](#) | [ORCID](#)  
 
----
+
 
 
