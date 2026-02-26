@@ -37,24 +37,24 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
       <td width="30px"></td>
       <!-- Card 2 -->
       <td width="300px" valign="top" align="center">
-        <a href="images/banner2.jpg">
-          <img src="https://via.placeholder.com/300x180.png?text=Project+2" width="100%" />
+        <a href="https://github.com/vranathunga/Iris-Classification---CNN.git">
+          <img src="images/banner2.jpg" width="100%" />
         </a>
-        <h3>Project Title 2</h3>
+        <h3>Iris Classification</h3>
         <p>
-          Short description of your project. Explain what it does in 1–2 lines.
+          This project is a CNN model creation for identifying Iris flower classification based on petal descriptions.
         </p>
       </td>
     <!-- Spacer -->
     <td width="30px"></td>
       <!-- Card 3 -->
       <td width="300px" valign="top" align="center">
-        <a href="images/banner3.jpg">
-          <img src="https://via.placeholder.com/300x180.png?text=Project+3" width="100%" />
+        <a href="https://github.com/vranathunga/Cat-Dog---CNN.git">
+          <img src="images/banner3.jpg" width="100%" />
         </a>
-        <h3>Project Title 3</h3>
+        <h3>Cat & Dog Classification</h3>
         <p>
-          Short description of your project. Explain what it does in 1–2 lines.
+          This project uses a Convolutional Neural Network (CNN) to classify images of cats and dogs
         </p>
       </td>
   </tr>
