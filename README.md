@@ -1,19 +1,6 @@
 # Vindya Ranathunga – Lecturer/ Researcher 
 
-Welcome to my GitHub portfolio! I am a **lecturer and researcher with research interest in specializing in computational neurology**, focusing on the intersection of neuroscience, Artificial Intelligence, and Cognitive Systems. I am passionate about teaching, mentoring, and sharing reproducible research.
-
----
-
-## 🔬 About Me
-
-- **Position:** Lecturer and Researcher in Computational Neurology  
-- **Research Interests:**  
-  - 🧩 Computational analysis of neurological disorders 
-  - 🧪 Neural network modeling of brain activity   
-  - 🖥️ Brain-computer interfaces   
-  - 🤖 Applications of AI in neuroscience  
-
-
+Welcome to my GitHub portfolio! I am a **lecturer and researcher with research interest in specializing in computational neurology**, focusing on the intersection of neuroscience, Machine Learning, and Brain Logics. I am passionate about teaching, mentoring, and sharing reproducible research. My research Interests are Computational Neurology, Cognitive Systems and Artificial Intelligence.
 
 ---
 
