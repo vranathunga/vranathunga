@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
       <!-- Card 1 -->
       <td width="300px" valign="top" align="center">
         <a href="https://github.com/vranathunga/EEG-Sleep-Stage-Classification.git">
-          <img src="images/banner1.png" width="100%" />
+          <img src="images/banner1.png" width="100%" height="180px" />
         </a>
         <h3>EEG-Sleep-Stage-Classification</h3>
         <p>
@@ -38,7 +38,7 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
       <!-- Card 2 -->
       <td width="300px" valign="top" align="center">
         <a href="https://github.com/vranathunga/Iris-Classification---CNN.git">
-          <img src="images/banner2.jpg" width="100%" />
+          <img src="images/banner2.jpg" width="100% height="180px" />
         </a>
         <h3>Iris Classification</h3>
         <p>
@@ -50,7 +50,7 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
       <!-- Card 3 -->
       <td width="300px" valign="top" align="center">
         <a href="https://github.com/vranathunga/Cat-Dog---CNN.git">
-          <img src="images/banner3.jpg" width="100%" />
+          <img src="images/banner3.jpg" width="100%" height="180px" />
         </a>
         <h3>Cat & Dog Classification</h3>
         <p>
