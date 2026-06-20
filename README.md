@@ -1,7 +1,7 @@
 # Welcome to my GitHub portfolio!
 
 <p align="center">
-  <img src="images/portfolio-banner.png" alt="Vindya Ranathunga Banner" width="100%" />
+  <img src="images/portfolio-banner-1.png" alt="Vindya Ranathunga Banner" width="100%" />
 </p>
 
 I am a **lecturer and researcher with research interest in specializing in computational neurology**, focusing on the intersection of neuroscience, Machine Learning, and Brain Logics. I am passionate about teaching, mentoring, and sharing reproducible research. I am interested in using these research interest in domain Demntia. I am a member of ISTAART.
