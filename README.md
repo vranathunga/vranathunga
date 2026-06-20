@@ -56,7 +56,7 @@ I am a **lecturer and researcher with research interest in specializing in compu
   </tr>
   <tr height="30px"></tr>
   <tr>
-    <td><img src="images/cover-img.png" width="100%" height="200px"/></td>
+    <td><img src="images/banner2.png" width="100%" height="200px"/></td>
     <td>
       <h3>Iris Classification</h3>
       <p>This project is a CNN model creation for identifying Iris flower classification based on petal descriptions.</p>
@@ -68,7 +68,7 @@ I am a **lecturer and researcher with research interest in specializing in compu
   </tr>
   <tr height="30px"></tr>
   <tr>
-    <td><img src="images/cover-img.png" width="100%" height="200px"/></td>
+    <td><img src="images/banner3.png" width="100%" height="200px"/></td>
     <td>
       <h3>Cat & Dog Classification</h3>
       <p> This project uses a Convolutional Neural Network (CNN) to classify images of cats and dogs.</p>
