@@ -76,12 +76,33 @@ I am a **lecturer and researcher with research interest in specializing in compu
 </table>
 
 
-
-
 ### Contact
+<table border="0">
+  <tr>
+    <td>
+      <a href="http://www.linkedin.com/in/vindya-ranathunga-4081b719a" target="_blank" style="margin: 0 10px;">
+        <img src="https://api.iconify.design/fa6-brands:linkedin.svg?color=%230077b5&width=40&height=40" alt="LinkedIn" valign="middle" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:vgr.grad@gmail.com" style="margin: 0 10px;">
+        <img src="https://api.iconify.design/mdi:email-outline.svg?color=%23ea4335&width=40&height=40" alt="Email" valign="middle" />
+      </a>
+    </td>
+    <td>
+      <a href="https://orcid.org/0009-0000-2468-9760" target="_blank" style="margin: 0 10px;">
+        <img src="https://api.iconify.design/academicons:orcid.svg?color=%23a6ce39&width=40&height=40" alt="ORCID" valign="middle" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.researchgate.net/profile/Vindya-Ranathunga" target="_blank" style="margin: 0 10px;">
+        <img src="https://api.iconify.design/academicons:researchgate.svg?color=%2300ccbb&width=40&height=40" alt="ResearchGate" valign="middle" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-- ✉️ Email: [vgr.grad@gmail.com](vgr.grad@gmail.com)  
-- 🔗 [LinkedIn](#) | [ResearchGate](#) | [ORCID](#)  
+  
 
 
 
