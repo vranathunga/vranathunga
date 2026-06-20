@@ -37,7 +37,6 @@ I am a **lecturer and researcher with research interest in specializing in compu
       <h3>P300 Analysis</h3>
       <p>This project was conducted to identify P300 of the EEG signal waves by using machine learning technologies.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/MNE__Python-7E57C2?style=flat-square&logo=python&logoColor=white" alt="MNE-Python" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       <p align="right"><a href="https://github.com/vranathunga/P300-EEG-Signal-Analysis.git">View Project :globe_with_meridians: </a></p>
     </td>
@@ -61,8 +60,6 @@ I am a **lecturer and researcher with research interest in specializing in compu
       <h3>Iris Classification</h3>
       <p>This project is a CNN model creation for identifying Iris flower classification based on petal descriptions.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/MNE__Python-7E57C2?style=flat-square&logo=python&logoColor=white" alt="MNE-Python" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       <p align="right"><a href="https://github.com/vranathunga/Iris-Classification---CNN.git">View Project :globe_with_meridians: </a></p>
     </td>
   </tr>
@@ -73,8 +70,6 @@ I am a **lecturer and researcher with research interest in specializing in compu
       <h3>Cat & Dog Classification</h3>
       <p> This project uses a Convolutional Neural Network (CNN) to classify images of cats and dogs.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/MNE__Python-7E57C2?style=flat-square&logo=python&logoColor=white" alt="MNE-Python" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       <p align="right"><a href="https://github.com/vranathunga/Cat-Dog---CNN.git">View Project :globe_with_meridians: </a></p>
     </td>
   </tr>
