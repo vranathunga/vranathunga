@@ -1,9 +1,14 @@
-# Vindya Ranathunga – Lecturer/ Researcher 
+# Welcome to my GitHub portfolio!
 
-Welcome to my GitHub portfolio! I am a **lecturer and researcher with research interest in specializing in computational neurology**, focusing on the intersection of neuroscience, Machine Learning, and Brain Logics. I am passionate about teaching, mentoring, and sharing reproducible research. My research Interests are Computational Neurology, Cognitive Systems and Artificial Intelligence.
+I am a **lecturer and researcher with research interest in specializing in computational neurology**, focusing on the intersection of neuroscience, Machine Learning, and Brain Logics. I am passionate about teaching, mentoring, and sharing reproducible research. 
+
+### My research Interests 
+:four_leaf_clover: Computational Neurology <br>
+:four_leaf_clover: Cognitive Systems <br>
+:four_leaf_clover:  Artificial Intelligence.
 
 
-## 🛠️ Skills & Tools
+### Skills & Tools
 <table >
   <tr>
     <td><img src="images/python.jpg" width="60"></td>
@@ -19,24 +24,8 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
     <td><img src="images/mne.jpg" width="60"></td>
   </tr>
 </table>
-<p align="center">
-  
-  
- 
-  
- 
-  
- 
-  
-  
- 
-  
-  
-</p>
 
-
-
-## 📈 GitHub Projects
+### GitHub Projects
 <div align="center">
   <table>
     <tr>
@@ -92,7 +81,7 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
 </table>
 </div>
 
-## 📫 Contact
+### Contact
 
 - ✉️ Email: [vgr.grad@gmail.com](vgr.grad@gmail.com)  
 - 🔗 [LinkedIn](#) | [ResearchGate](#) | [ORCID](#)  
