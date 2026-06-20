@@ -4,20 +4,37 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
 
 
 ## 🛠️ Skills & Tools
+<table >
+  <tr>
+    <td><img src="images/python.jpg" width="60"></td>
+    <td><img src="images/flask.png" width="60"></td>
+    <td><img src="images/numpy.png" width="60"></td>
+    <td><img src="images/scikit.png" width="60"></td>
+    <td><img src="images/weka.jpg" width="60"></td>
+    <td><img src="images/keras.png" width="60"></td>
+    <td><img src="images/tensorflow.png" width="60"></td>
+    <td><img src="images/pytorch.png" width="60"></td>
+    <td><img src="images/c.png" width="60"></td>
+    <td><img src="images/java.png" width="60"></td>
+    <td><img src="images/mne.jpg" width="60"></td>
+  </tr>
+</table>
 <p align="center">
-  <img src="images/python.jpg" width="90">
-  <img src="images/flask.png" width="90">
-  <img src="images/numpy.png" width="90">
-  <img src="images/scikit.png" width="90">
-  <img src="images/weka.jpg" width="90">
-  <img src="images/keras.png" width="90">
-  <img src="images/tensorflow.png" width="90">
-  <img src="images/pytorch.png" width="90">
-  <img src="images/c.png" width="90">
-  <img src="images/java.png" width="90">
-  <img src="images/mne.jpg" width="90">
+  
+  
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+  
   
 </p>
+
+
 
 ## 📈 GitHub Projects
 <div align="center">
