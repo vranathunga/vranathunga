@@ -58,6 +58,20 @@ Welcome to my GitHub portfolio! I am a **lecturer and researcher with research i
         </p>
       </td>
   </tr>
+  <tr>
+    <!-- Card 1 -->
+      <td width="300px" valign="top" align="center">
+        <a href="https://github.com/vranathunga/P300-EEG-Signal-Analysis.git">
+          <img src="images/cover-img.png" width="100%" height="180px" />
+        </a>
+        <h3>P300 Analysis</h3>
+        <p>
+          This project was conducted to identify P300 of the EEG signal waves identification by using machine learning technologies.
+        </p>
+      </td>
+      <!-- Spacer -->
+    <td width="30px"></td>
+  </tr>
 </table>
 </div>
 
