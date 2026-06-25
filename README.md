@@ -11,7 +11,7 @@ I am a **lecturer and researcher with research interest in specializing in compu
 :four_leaf_clover: Cognitive Systems <br>
 :four_leaf_clover:  Artificial Intelligence.
 
-I would like to do research with BCI including EEG technology which we try to finding cures and diagnosis of neurodegenerative disorders like Alzheimer's Disorder and exploring how insights from brain activity and cognitive neuroscience can contribute to enhancing the cognitive capabilities, learning efficiency, and decision-making processes of modern AI models.
+I would like to do research with BCI which includes EEG technology which we try to finding cures and diagnosis of neurodegenerative disorders like Alzheimer's Disorder and exploring how insights from brain activity and cognitive neuroscience can contribute to enhancing the cognitive capabilities, learning efficiency, and decision-making processes of modern AI models.
 
 ### Skills & Tools
 <table >
