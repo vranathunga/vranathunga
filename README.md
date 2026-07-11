@@ -14,6 +14,9 @@ I am a **lecturer and researcher with research interest in specializing in compu
 I beilive we need to use new technology to solve current human problems rather than afraiding them. I like to focus on how to use current technology advancements to solve health related issue rather than improving them. I would like to do research with BCI which we try to finding cures and diagnosis of neurodegenerative disorders like Alzheimer's Disorder. 
 
 ### Questions I like to solve
+<p align="center">
+  <img src="images/portfolio-baner-2.png" alt="Vindya Ranathunga Banner" width="100%" />
+</p>
 :four_leaf_clover: How to detect neurodegenerative disorders before symptoms? <br>
 :four_leaf_clover: Speak and communication to spinal cord injured people? <br>
 :four_leaf_clover: New theraputics to neurodegenarative disorders <br>
