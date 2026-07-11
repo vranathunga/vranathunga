@@ -4,14 +4,21 @@
   <img src="images/portfolio-banner-1.png" alt="Vindya Ranathunga Banner" width="100%" />
 </p>
 
-I am a **lecturer and researcher with research interest in specializing in computational neurology**, focusing on the intersection of neuroscience, Machine Learning, and Brain Logics. I am passionate about teaching, mentoring, and sharing reproducible research. I am interested in using these research interest in domain Demntia. I am a member of ISTAART.
+I am a **lecturer and researcher with research interest in specializing in computational neuroscience**, I work on the intersection of cognitive science, computer science & neuroscience. I am passionate about teaching, mentoring, and sharing reproducible research. I am interested in using these research interest in domain neurodegenerative disorders. I am a member of ISTAART.
 
 ### My research Interests 
 :four_leaf_clover: Computational Neurology <br>
 :four_leaf_clover: Cognitive Systems <br>
 :four_leaf_clover:  Artificial Intelligence.
 
-I would like to do research with BCI which includes EEG technology which we try to finding cures and diagnosis of neurodegenerative disorders like Alzheimer's Disorder and exploring how insights from brain activity and cognitive neuroscience can contribute to enhancing the cognitive capabilities, learning efficiency, and decision-making processes of modern AI models.
+I beilive we need to use new technology to solve current human problems rather than afraiding them. I like to focus on how to use current technology advancements to solve health related issue rather than improving them. I would like to do research with BCI which we try to finding cures and diagnosis of neurodegenerative disorders like Alzheimer's Disorder. 
+
+### Questions I like to solve
+:four_leaf_clover: How to detect neurodegenerative disorders before symptoms? <br>
+:four_leaf_clover: Speak and communication to spinal cord injured people? <br>
+:four_leaf_clover: New theraputics to neurodegenarative disorders <br>
+:four_leaf_clover: Can we restored or identified brain with stroke?
+
 
 ### Skills & Tools
 <table >
