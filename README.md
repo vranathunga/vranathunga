@@ -17,7 +17,7 @@ I beilive we need to use new technology to solve current human problems rather t
   <img src="images/portfolio-baner-2-2.png" alt="Vindya Ranathunga Banner" width="100%" />
 </p>
 
-<p> I like to solve puzzles. I always prefer to ask "Why?" I like to solve problems & questions such as, </p>
+<p> I like to solve puzzles. I always curious about "Why?" I like to solve problems & questions such as, </p>
 :four_leaf_clover: How to detect neurodegenerative disorders before symptoms? <br>
 :four_leaf_clover: Speak and communication to spinal cord injured people? <br>
 :four_leaf_clover: New theraputics to neurodegenarative disorders <br>
