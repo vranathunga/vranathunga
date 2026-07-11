@@ -15,7 +15,7 @@ I beilive we need to use new technology to solve current human problems rather t
 
 ### Questions I like to solve
 <p align="center">
-  <img src="images/portfolio-baner-2.png" alt="Vindya Ranathunga Banner" width="100%" />
+  <img src="images/portfolio-baner-2-1.png" alt="Vindya Ranathunga Banner" width="100%" />
 </p>
 :four_leaf_clover: How to detect neurodegenerative disorders before symptoms? <br>
 :four_leaf_clover: Speak and communication to spinal cord injured people? <br>
