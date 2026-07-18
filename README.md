@@ -23,6 +23,9 @@ I beilive we need to use new technology to solve current human problems rather t
 :four_leaf_clover: New theraputics to neurodegenarative disorders <br>
 :four_leaf_clover: Can we restored or identified brain with stroke?
 
+<img src="your-chibi-image.png" alt="Profile Icon" width="40" height="40" align="left" style="margin-right: 10px;">
+
+### My Research Playbook
 
 ### Skills & Tools
 <table >
