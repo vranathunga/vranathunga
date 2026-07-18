@@ -23,9 +23,11 @@ I beilive we need to use new technology to solve current human problems rather t
 :four_leaf_clover: New theraputics to neurodegenarative disorders <br>
 :four_leaf_clover: Can we restored or identified brain with stroke?
 
-<img src="images/research-playbook-2.png" alt="Profile Icon" width="40" height="40" align="left" style="margin-right: 10px;">
-
 ### My Research Playbook
+<p> :four_leaf_clover: I like to keep a small note book with me. I wrote important notes related to my research work there. I do the stketching works, draw diagrams for planning and get myself a clear idea about my research work before I write ideas on research paper or proposal. <p>
+<p>:four_leaf_clover: Sometimes I work on several projects at a time. So I put sticky notes in that note book. I allocated one color for one research. So I can easily find my notes related to that research by using that.</p>
+<p>:four_leaf_clover: I use colored pens, highlight pens to make note taking more visible. It doesn't take me an extra effort to do. I like to keep things organize, visualize and I love to do that so it is effortless.</p>
+<p>:four_leaf_clover: I like to do systematic reviews because I think it is giving me depth of knowledge regarding something I wanted to research. I value systematic work as much as I value research work with novelty and have implemetation works.</p>
 
 ### Skills & Tools
 <table >
