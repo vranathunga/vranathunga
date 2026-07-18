@@ -7,7 +7,7 @@
 I am a **lecturer and researcher with research interest in specializing in computational neuroscience**, I work on the intersection of cognitive science, computer science & neuroscience. I am passionate about teaching, mentoring, and sharing reproducible research. I am interested in using these research interest in domain neurodegenerative disorders. I am a member of ISTAART.
 
 ### My research Interests 
-:four_leaf_clover: Computational Neurology <br>
+:four_leaf_clover: Computational Neuroscience <br>
 :four_leaf_clover: Cognitive Systems <br>
 :four_leaf_clover:  Artificial Intelligence.
 
