@@ -54,7 +54,7 @@ I beilive we need to use new technology to solve current human problems rather t
       <h3>P300 Analysis</h3>
       <p>This project focuses on using topographic mapping of DAR (Delta/Alpha Ratio) of AD patients EEG data </p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/MNE--Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="MNE-Python" />
       <p align="right"><a href="https://github.com/vranathunga/P300-EEG-Signal-Analysis.git">View Project :globe_with_meridians: </a></p>
     </td>
   </tr>
