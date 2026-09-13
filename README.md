@@ -58,6 +58,7 @@ I beilive we need to use new technology to solve current human problems rather t
       <p align="right"><a href="https://github.com/vranathunga/P300-EEG-Signal-Analysis.git">View Project :globe_with_meridians: </a></p>
     </td>
   </tr>
+  <tr height="30px"></tr>
   <tr>
     <td><img src="images/cover-img.png" width="100%" height="200px"/></td>
     <td>
