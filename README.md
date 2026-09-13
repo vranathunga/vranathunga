@@ -49,7 +49,7 @@ I beilive we need to use new technology to solve current human problems rather t
 ### GitHub Projects
 <table>
    <tr>
-    <td><img src="images/cover-img.png" width="100%" height="200px"/></td>
+    <td><img src="images/dar-img.jpg" width="100%" height="200px"/></td>
     <td>
       <h3>P300 Analysis</h3>
       <p>This project focuses on using topographic mapping of DAR (Delta/Alpha Ratio) of AD patients EEG data </p>
