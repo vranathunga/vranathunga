@@ -48,6 +48,16 @@ I beilive we need to use new technology to solve current human problems rather t
 
 ### GitHub Projects
 <table>
+   <tr>
+    <td><img src="images/cover-img.png" width="100%" height="200px"/></td>
+    <td>
+      <h3>P300 Analysis</h3>
+      <p>This project was conducted to identify P300 of the EEG signal waves by using machine learning technologies.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <p align="right"><a href="https://github.com/vranathunga/P300-EEG-Signal-Analysis.git">View Project :globe_with_meridians: </a></p>
+    </td>
+  </tr>
   <tr>
     <td><img src="images/cover-img.png" width="100%" height="200px"/></td>
     <td>
